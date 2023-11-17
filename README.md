@@ -1,5 +1,5 @@
 
-## Cart Looks
+## yuserver.in
 CartLooks is an e-commerce platform built with Laravel and Vue.js
 
 ## Installation & Project Setup

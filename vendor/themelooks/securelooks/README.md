@@ -32,7 +32,7 @@ If you discover any security related issues, please email kousar.themelooks@gmai
 ## Credits
 
 - [Kousar Rahman](https://github.com/kousar2334)
-- [Themelooks](http://themelooks.com/)
+- [Yuserver](http://themelooks.com/)
 
 ## License
 
